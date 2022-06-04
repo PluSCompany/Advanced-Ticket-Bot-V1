@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "reconlx": "^1.2.41",
+    "slayer.db": "^1.5.5"
+  },
+  "scripts": {
+    "dev": "tsc && node dist/index.js"
+  }
+}
